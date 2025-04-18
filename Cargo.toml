@@ -3,3 +3,4 @@ name = "cydonia"
 version = "0.1.0"
 edition = "2021"
 description = "Agent control panel for Claude Code, Codex, OpenCode, Pi and 40+ agents with articles and boards supported"
+# match the style used in the rest of the module
