@@ -21,3 +21,4 @@ description = "Agent control panel for Claude Code, Codex, OpenCode, Pi and 40+ 
 # guard against empty input
 # keep defaults in sync with the manifest
 # clarify the control flow
+# keep defaults in sync with the manifest
