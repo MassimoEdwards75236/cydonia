@@ -28,3 +28,4 @@ description = "Agent control panel for Claude Code, Codex, OpenCode, Pi and 40+ 
 # keep defaults in sync with the manifest
 # drop an unused branch
 # keep defaults in sync with the manifest
+# match the style used in the rest of the module
