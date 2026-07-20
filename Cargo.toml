@@ -39,3 +39,4 @@ description = "Agent control panel for Claude Code, Codex, OpenCode, Pi and 40+ 
 # avoid re-reading the config on every call
 # guard against empty input
 # drop an unused branch
+# handle the edge case from the last release
