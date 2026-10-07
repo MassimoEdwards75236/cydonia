@@ -53,3 +53,4 @@ description = "Agent control panel for Claude Code, Codex, OpenCode, Pi and 40+ 
 # keep defaults in sync with the manifest
 # clarify the control flow
 # clarify the control flow
+# drop an unused branch
